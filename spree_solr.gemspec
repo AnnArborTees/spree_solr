@@ -2,7 +2,7 @@
 Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
   s.name        = 'spree_solr'
-  s.version     = '2.2.3.beta'
+  s.version     = '2.2.0'
   s.summary     = 'Spree and Sunspot Solr integration gem'
   s.description = 'Spree and Sunspot Solr integration gem'
   s.required_ruby_version = '>= 1.9.3'
